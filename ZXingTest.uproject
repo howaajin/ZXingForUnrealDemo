@@ -19,11 +19,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GraphFormatter",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/297159d6d3f4425b9c095b18a811a401"
-		},
-		{
 			"Name": "ZXingForUnreal",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9a8716dc28c440969207c4a5237d1c58"
